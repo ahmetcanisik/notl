@@ -1,0 +1,9 @@
+{
+  "name": "notl",
+  "version": "0.0.1",
+  "description": "Terminal note taking application",
+  "main": "index.js",
+  "repository": "https://github.com/ahmetcanisik/notl.git",
+  "author": "ahmetcanisik",
+  "license": "MIT"
+}
